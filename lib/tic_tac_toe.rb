@@ -102,7 +102,7 @@ class TicTacToe
   end
   
   def play
-    beginning
+    #beginning
     until over?
       turn
       if won?
